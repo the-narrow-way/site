@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Narrow Way</title>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body>
+<div class=post>
+<h2>Posts by Pinesap</h2><br>
+{{ range .Pages }}
+<a href="{{ .Permalink }}">{{ .Title }} - {{ .PublishDate.Format "January 2, 2006" }}</a><br>
+{{ end }}
+</div>
+</body>
+</html> 

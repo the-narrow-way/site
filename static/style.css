@@ -1,0 +1,115 @@
+body {
+  /* 
+  background-image: url("Israelites_Passing_through_the_Wilderness.webp");
+  background-image: url("The_Return_of_the_Flock._Laren_Anton_Mauve._c_1886_Philadelphia.webp");
+  background-image: 
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("Albert_Rieger_Gebirgsbach.webp");
+  background-color: #111111;
+  background-color: #dfc592;
+  overflow-x: hidden;
+  */
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("Gustave_Doré-Forest_at_Twilight.webp");
+  background-color: #1f1d15;
+  color: #e8dab6;
+  background-position: center; 
+  text-align: center;
+  background-attachment: fixed;
+}
+@media only screen and (max-width: 768px) {
+  main {
+    width: 100%;
+  }
+}
+main {
+  max-width: 500px; 
+  margin: 0 auto;
+}
+.header {
+  padding: 80px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+}
+a {
+  color: ghostwhite;
+}
+.navbar {
+  font-size: 18px;
+  overflow: hidden;
+  position: sticky;
+  position: -webkit-sticky;
+}
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 2px 16px;
+  text-decoration: none;
+}
+.navbar a.right {
+  float: right;
+}
+.navbar a:hover {
+  background-color: #dfc592;
+  color: black;
+}
+.post a:hover {
+  text-decoration: underline;
+}
+@keyframes spin {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.rotate {
+  animation: spin 170s linear infinite;
+  width: 80%;
+}
+.post a {
+  color: black;
+  text-decoration: none;
+}
+.post h1,h2 {
+  margin: 0;
+  padding: 0;
+}
+.post h3 { display: inline }
+.post {
+  padding: 15px;
+  background-color: #dbcc9b;
+  margin: 22px;
+  color: black;
+  text-align: left;
+}
+table {
+  width: 100%;
+  text-align: left;
+  padding: 10px;
+}
+.tag {
+  padding: 4px;
+  margin-bottom: 10px;
+  line-height: 32px;
+  border-style: solid;
+  text-decoration:none;
+  border-width: 1px;
+}
+.listpage {
+  background: linear-gradient( rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65) ),url("Gustave_Doré-Forest_at_Twilight.jpg");
+  font-size: 18px;
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+}
+.nodot {
+  list-style-type: none;
+}
+.noline {
+  text-decoration:none;
+}
+input,textarea {
+  font-family: Serif;
+  resize: vertical;
+  background: ghostwhite;
+  width: 90%;
+}

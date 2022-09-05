@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>The Narrow Way</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="/style.css" />
+</head>
+<body class=listpage>
+    <h1>{{.Title}}</h1>
+    <table>
+    {{ range .Pages }}
+      <tr>
+        <td><a class=noline href="{{ .Permalink }}">{{ .Title }}</td>
+        <td align='right'>{{ .PublishDate.Format "January 2, 2006" }}</td>
+      </tr>
+      {{ end }}
+    </table>
+</main>
+</body>
+</html>

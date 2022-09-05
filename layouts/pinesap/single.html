@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>The Narrow Way</title>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="/writing.css" />
+</head>
+<body>
+<main>
+{{ .Content }}<small class=date>Written {{ .PublishDate.Format "January 2, 2006" }}</small></main>
+    {{ range .Site.Taxonomies.series.golang }}
+        <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>{{ end }}
+    {{ range (.GetTerms "tags") }}<a class=tag href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+ {{ end }}
+</body>
+</html> 
