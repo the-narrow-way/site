@@ -1,0 +1,9 @@
+baseURL: 'https://pinesap.net'
+languageCode: en-us
+title: The Narrow Way
+author:
+  name: Pinesap
+outputFormats:
+  RSS:
+    mediatype: application/rss
+    baseName: feed
