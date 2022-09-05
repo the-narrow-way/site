@@ -9,6 +9,8 @@ draft: false
 
 # Example Post
 
+<iframe title="Nick on the meaning of life and hedonism" width="560" height="315" src="https://clipcel.net/videos/embed/588282ba-fd39-4229-ab31-6e22ca366953?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
 ## Example Image
 
 ![NJF](/Albert_Rieger_Gebirgsbach.webp)
