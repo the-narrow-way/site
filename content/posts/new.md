@@ -9,4 +9,4 @@ draft: true
 
 # New post
 
-![NJF](/Albert_Rieger_Gebirgsbach.webp)
+![icon](https://dl.clipcel.net/img/icon.png)
