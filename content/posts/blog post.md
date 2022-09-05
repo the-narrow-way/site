@@ -7,7 +7,7 @@ draft: true
 
 ---
 
-# Example HIII2
+# Example Post
 
 ## Example Image
 
