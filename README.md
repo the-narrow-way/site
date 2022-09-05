@@ -1,0 +1,1 @@
+[![pages-build-deployment](https://github.com/the-narrow-way/site/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/the-narrow-way/site/actions/workflows/pages/pages-build-deployment)
