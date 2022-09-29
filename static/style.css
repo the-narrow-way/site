@@ -80,7 +80,7 @@ a {
   margin: 22px;
   color: black;
   text-align: left;
-  border-radius: 12px;
+  /* border-radius: 12px; */
 }
 table {
   width: 100%;
