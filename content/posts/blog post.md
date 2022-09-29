@@ -1,8 +1,8 @@
 ---
 title: The Right Wing Temptation of Perennialism 
 date: 2022-09-03
-tags: [America First, Pepsi Nitro, Sedevacantism, Food, Coffee]
-draft: true
+tags: [Perennialism, the Eastern Schism, right wing, America First]
+draft: false
 ---
 
 # The Temptation of Perennialism
