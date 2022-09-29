@@ -7,7 +7,7 @@ draft: false
 
 # The Temptation of Perennialism
 
-<iframe title="People are lost" width="560" height="315" src="https://cozyclips.net/videos/embed/3a6611d9-1e75-4dc4-b9d3-5f23034ae7ab?title=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+![Revolt Against The Modern World](revolt-against-the-modern-world.jpg)
 
 Perennialism, put into layman’s terms, is the error of believing that all religions carry a primordial tradition that points back to God and are ultimately willed by God. For some time, I have wanted to do an exposé on this error that I fear many on the right fall into, because it seems to colorize much of newer right-wing thinking.
 
