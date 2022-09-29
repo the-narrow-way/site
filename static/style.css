@@ -63,7 +63,7 @@ a {
 }
 .rotate {
   animation: spin 170s linear infinite;
-  width: 80%;
+  width: 90%;
 }
 .post a {
   color: black;
