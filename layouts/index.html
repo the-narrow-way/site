@@ -31,7 +31,7 @@
       {{ range (where .Site.RegularPages.ByTitle "Section" "posts" ) }}
       <tr>
         <td><a href="{{ .Permalink }}">{{ .Title }}</td>
-        <td align='right'>{{ .PublishDate.Format "January 2, 2006" }}</td>
+        <td align='right'>{{ .PublishDate.Format "Jan 2, 2006" }}</td>
       </tr>
       {{ end }}
     </table>
