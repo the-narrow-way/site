@@ -1,7 +1,7 @@
 ---
-title: Template
+title: No True Catholic?
 date: 2022-01-01
-tags: [Template, Fix Tags]
+tags: [Orthodoxy, Catholic, Magisterium, Joy]
 draft: false
 ---
 
