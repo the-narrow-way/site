@@ -2,7 +2,7 @@
 title: Template
 date: 2022-01-01
 tags: [Template, Fix Tags]
-draft: true
+draft: false
 ---
 
 ![image title](https://pinesap.net/img001.jpg)
