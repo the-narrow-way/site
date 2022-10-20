@@ -5,7 +5,7 @@ tags: [Template, Fix Tags]
 draft: true
 ---
 
-![image title](/img001.jpg)
+![image title](https://pinesap.net/img001.jpg)
 
 # No True Catholic?
 In today's world, Catholics are troubled by the emergence of camps that harm the unity of the Church and scar the body of Christ. These two classifications could be divided simply into the “progressive” or “traditionalist” categories with their own ideological bents and ideas of how they want the Church to run. First, the archetype of the progressive. 
