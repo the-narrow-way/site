@@ -40,6 +40,27 @@
      <a class=tag href="{{ .Page.Permalink }}">{{ .Page.Title }}</a>
     {{ end }}
   </div>
+  {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "shorts" ) }}
+  <div class=post>
+  <h2>{{ .Title }}</h2>
+  {{ .Content }}
+  <td align='right'>{{ .PublishDate.Format "Jan 2, 2006" }}</td>
+  </div>
+  {{end}}
+  <div class=post>
+  <!--<h2>Videos</h2>-->
+      {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "videos" ) | first 1 }}
+         {{ .Content }}
+      {{end}}
+    <table>
+      {{ range (where .Site.RegularPages.ByDate.Reverse "Section" "videos" ) }}
+      <tr>
+        <td><a href="{{ .Permalink }}">{{ .Title }}</td>
+        <td align='right'>{{ .PublishDate.Format "Jan 2, 2006" }}</td>
+      </tr>
+      {{ end }}
+    </table>
+  </div>
   <div class=post>
     <h2>Question Responses 💬</h2>
     <table>
