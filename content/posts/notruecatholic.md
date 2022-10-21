@@ -4,8 +4,7 @@ date: 2022-01-01
 tags: [Orthodoxy, Catholic, Magisterium, Joy]
 draft: false
 ---
-
-![image title](https://pinesap.net/img001.jpg)
+<img src=https://pinesap.net/img001.jpg style="width:60%">
 
 # No True Catholic?
 In today's world, Catholics are troubled by the emergence of camps that harm the unity of the Church and scar the body of Christ. These two classifications could be divided simply into the “progressive” or “traditionalist” categories with their own ideological bents and ideas of how they want the Church to run. First, the archetype of the progressive. 
